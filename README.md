@@ -18,3 +18,11 @@ View your app in AI Studio: https://ai.studio/apps/a5589dca-ce56-4fa2-bc81-61876
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## How to
+**Extract JSON**
+Clicking it provides you with a smart JavaScript snippet.
+You can simply copy that snippet, 
+run it in the console of any website (your existing English app, a client's site, etc.), 
+and it will automatically
+scrape the text and format it into the exact JSON structure LinguaFlow needs.
