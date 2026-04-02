@@ -19,10 +19,15 @@ View your app in AI Studio: https://ai.studio/apps/a5589dca-ce56-4fa2-bc81-61876
 3. Run the app:
    `npm run dev`
 
+
+## AI: Created a Translator Service (translator.ts) sends the app's content to Gemini and asks for a structure-preserving translation.
+
 ## How to
 **Extract JSON**
-Clicking it provides you with a smart JavaScript snippet.
-You can simply copy that snippet, 
-run it in the console of any website (your existing English app, a client's site, etc.), 
+## Code Tab: Gives you the raw translated JSON code to copy and paste directly into your the project in development
+## Left Panel (Input) is for application's text (JSON format).
+## Smart JavaScript snippet
+Copy the snippet, 
+run it in the console of any website, 
 and it will automatically
 scrape the text and format it into the exact JSON structure LinguaFlow needs.
